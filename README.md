@@ -3,6 +3,8 @@
 ### Dashboard Link: 
 https://public.tableau.com/views/tableaustocksdashboard1/StocksPerformance?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+## Dashboard Preview
+
 ## Problem Statement
 
 Investors track stock prices but do not always measure how these movements impact their personal investment value. This Tableau dashboard helps visualise how selected UK stocks perform over time and how a personal portfolio changes daily based on live market prices. It shows which stocks contribute most to returns and how volatile each one is across the year.
