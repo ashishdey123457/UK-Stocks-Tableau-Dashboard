@@ -4,7 +4,10 @@
 https://public.tableau.com/views/tableaustocksdashboard1/StocksPerformance?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Dashboard Preview:
-screenshots/UK Stocks Dashboard preview.png
+![Dashboard Preview](screenshots/UK Stocks Dashboard preview.png)
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/96d16505-7d27-4518-9456-e7e2883ba3ab" />
+
 
 ## Problem Statement
 
