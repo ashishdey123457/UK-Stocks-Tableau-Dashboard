@@ -3,7 +3,8 @@
 ### Dashboard Link: 
 https://public.tableau.com/views/tableaustocksdashboard1/StocksPerformance?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-## Dashboard Preview
+## Dashboard Preview:
+screenshots/UK Stocks Dashboard preview.png
 
 ## Problem Statement
 
