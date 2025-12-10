@@ -27,11 +27,12 @@ Investors track stock prices but do not always measure how these movements impac
 - Top holdings in portfolio
 
 ## Data Source
+Data is pulled from Google Sheets using the GOOGLEFINANCE function.
 
-Data is pulled from Google Sheets using the GOOGLEFINANCE function
+=GOOGLEFINANCE(A2, "Price", EDATE(TODAY(), -12), TODAY())
 
- =GOOGLEFINANCE(A2, "Price", EDATE(TODAY(), -12), TODAY()) 
 
+Here A2 contains the stock ticker symbol such as BARC, ENT , TSCO, BP or ULVR. 
 
 This returns daily closing prices for the past one year for each selected ticker. Daily percentage change was calculated in Google Sheets.
 
